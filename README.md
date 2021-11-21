@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afriyie Samuel Kwesi</h1>
-<h3 align="center">A hardworking and passionate software developer, specifically a web developer</h3>
+<h1 align="center">Hi 👋, I'm Afriyie Samuel Kwesi and I am a ghanaian. I am Software Developer specifically a web developer. I am very passionate and love to develop web applications that helps better lives and makes things easier for people.</h1>
 
 - 📫 How to reach me **afriyiesamuel36@gmail.com**
 
