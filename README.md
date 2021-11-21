@@ -1,4 +1,5 @@
-<h3 align="left">Hi 👋, I'm Afriyie Samuel Kwesi and I am a ghanaian. I am Software Developer specifically a web developer. I am very passionate and love to develop web applications that helps better lives and makes things easier for people.</h1>
+<h3 align="left">Hi 👋, I'm Afriyie Samuel Kwesi and I am a ghanaian. I am Software Developer specifically a web developer. I am very passionate and love to develop web applications that helps better lives and makes things easier for people.</h3>
+<p align="left">I love to work in with people and to continue to learn new things. To know more about me and also to get connected with me , you can follow me on my social links below </p>
 
 - 📫 How to reach me **afriyiesamuel36@gmail.com**
 
